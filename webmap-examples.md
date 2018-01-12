@@ -15,7 +15,6 @@
 * [NYC Vehicle Collisions](https://www.mapbox.com/bites/00309/)
 * [Museum Stat](http://museumstat.org/)
 * [Ships in the SF Bay](https://www.mapbox.com/bites/00318/)
-* [Every ZIP Philly](http://whyy.org/cms/everyzip/every-zip-map/)
 * [Grow Asia](http://counter.growasia.org/analyses/new)
 * [World of Impact](http://worldofimpact.care.org/)
 * [Airport Terminal Map](https://www.mapbox.com/bites/00198/)
