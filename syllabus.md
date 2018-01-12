@@ -2,12 +2,12 @@
 
 * **Course:** CPLN-692-401, University of Pennsylvania
 * **Location:** Meyerson Hall B13
-* **Schedule:** 2-5PM, Fridays
+* **Schedule:** 1-4PM, Fridays
 * **Instructor:**
     * Nathan Zimmerman, [npzimmerman@gmail.com](mailto:npzimmerman@gmail.com)
 * **Teaching Assistant:** Ge (Chloe) Qu, [gequ@design.upenn.edu](mailto:gequ@design.upenn.edu)
 * **Office Hours:**
-    * Nathan Zimmerman: 12-1 Fridays @ The Graduate Student Center
+    * Nathan Zimmerman: 11-12 Fridays @ The Graduate Student Center
     * Ge (Chloe) Qu: TBD
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/CPLN-692-401/syllabus.svg)](https://gitter.im/CPLN-692-401/Lobby)
